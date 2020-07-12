@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a software engineer which loves to learn new things, like a knowledge cruncher. 
+My area of interests are:
+- Domain-Driven Design
+- Microservices
+- Docker
+
 <!--
 **DPDias/DPDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
